@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70dbdb11-737b-48e8-97bb-9f94afa20e58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hkc-code/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hkc-code/src/main/java/org/hackercjc/hck/arithmetic/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hkc-code/src/main/java/org/hackercjc/hck/arithmetic/BubboSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hkc-code/src/main/java/org/hackercjc/hck/arithmetic/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hkc-code/src/main/java/org/hackercjc/hck/arithmetic/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hkc-code/src/main/java/org/hackercjc/hck/arithmetic/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hkc-javacore/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hkc-javacore/src/main/java/org/hackercjc/hkcoop/Java8Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1klivlAyP1WNIVAeCet3Oqs6sF0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4668838" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.QuickSort">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.hackercjc.hck.arithmetic.BinarySearch" />
+      <module name="hkc-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hackercjc.hck.arithmetic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubboSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.hackercjc.hck.arithmetic.BubboSort" />
+      <module name="hkc-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hackercjc.hck.arithmetic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.hackercjc.hck.arithmetic.QuickSort" />
+      <module name="hkc-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hackercjc.hck.arithmetic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.hackercjc.hck.arithmetic.SelectSort" />
+      <module name="hkc-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hackercjc.hck.arithmetic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java8Test.testCompletaleFuture" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hkc-javacore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hackercjc.hkcoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.hackercjc.hkcoop" />
+      <option name="MAIN_CLASS_NAME" value="org.hackercjc.hkcoop.Java8Test" />
+      <option name="METHOD_NAME" value="testCompletaleFuture" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HkcOopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hkc-oop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.hackercjc.hkcoop.HkcOopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.BubboSort" />
+        <item itemvalue="Application.SelectSort" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="JUnit.Java8Test.testCompletaleFuture" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70dbdb11-737b-48e8-97bb-9f94afa20e58" name="Default Changelist" comment="" />
+      <created>1606281812036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606281812036</updated>
+      <workItem from="1606281815184" duration="1691000" />
+      <workItem from="1606443428193" duration="616000" />
+      <workItem from="1606707882150" duration="5038000" />
+      <workItem from="1606713700542" duration="12951000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="880" y="397" key="#Project_Structure" timestamp="1606708633559">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="880" y="397" key="#Project_Structure/2560.23.1080.1897/0.23.2560.1417/-1680.413.1680.1027@0.23.2560.1417" timestamp="1606708633559" />
+    <state x="1130" y="627" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1606281938710">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1130" y="627" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/2560.23.1080.1897/0.23.2560.1417/-1680.413.1680.1027@0.23.2560.1417" timestamp="1606281938710" />
+    <state width="2518" height="408" key="GridCell.Tab.0.bottom" timestamp="1606736602490">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="408" key="GridCell.Tab.0.bottom/2560.23.1080.1897/0.23.2560.1417/-1680.413.1680.1027@0.23.2560.1417" timestamp="1606736602490" />
+    <state width="2518" height="408" key="GridCell.Tab.0.center" timestamp="1606736602488">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="408" key="GridCell.Tab.0.center/2560.23.1080.1897/0.23.2560.1417/-1680.413.1680.1027@0.23.2560.1417" timestamp="1606736602488" />
+    <state width="2518" height="408" key="GridCell.Tab.0.left" timestamp="1606736602487">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="408" key="GridCell.Tab.0.left/2560.23.1080.1897/0.23.2560.1417/-1680.413.1680.1027@0.23.2560.1417" timestamp="1606736602487" />
+    <state width="2518" height="408" key="GridCell.Tab.0.right" timestamp="1606736602489">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="408" key="GridCell.Tab.0.right/2560.23.1080.1897/0.23.2560.1417/-1680.413.1680.1027@0.23.2560.1417" timestamp="1606736602489" />
+    <state x="818" y="393" key="Maven.ArtifactSearchDialog" timestamp="1606708495977">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="818" y="393" key="Maven.ArtifactSearchDialog/2560.23.1080.1897/0.23.2560.1417/-1680.413.1680.1027@0.23.2560.1417" timestamp="1606708495977" />
+    <state x="768" y="313" width="1255" height="837" key="SettingsEditor" timestamp="1606712233270">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="768" y="313" width="1255" height="837" key="SettingsEditor/2560.23.1080.1897/0.23.2560.1417/-1680.413.1680.1027@0.23.2560.1417" timestamp="1606712233270" />
+    <state x="940" y="355" width="540" height="524" key="StructurePopup" timestamp="1606716775731">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="940" y="355" width="540" height="524" key="StructurePopup/2560.23.1080.1897/0.23.2560.1417/-1680.413.1680.1027@0.23.2560.1417" timestamp="1606716775731" />
+    <state x="959" y="564" key="com.intellij.ide.util.TipDialog" timestamp="1606790110047">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="959" y="564" key="com.intellij.ide.util.TipDialog/2560.23.1080.1897/0.23.2560.1417/-1680.413.1680.1027@0.23.2560.1417" timestamp="1606790110047" />
+    <state x="946" y="488" width="667" height="486" key="find.popup" timestamp="1606736332619">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="946" y="488" width="667" height="486" key="find.popup/2560.23.1080.1897/0.23.2560.1417/-1680.413.1680.1027@0.23.2560.1417" timestamp="1606736332619" />
+    <state x="674" y="435" key="new project wizard" timestamp="1606726216624">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="674" y="435" key="new project wizard/2560.23.1080.1897/0.23.2560.1417/-1680.413.1680.1027@0.23.2560.1417" timestamp="1606726216624" />
+    <state x="945" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1606734816240">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="945" y="348" width="670" height="676" key="search.everywhere.popup/2560.23.1080.1897/0.23.2560.1417/-1680.413.1680.1027@0.23.2560.1417" timestamp="1606734816240" />
+  </component>
+</project>
